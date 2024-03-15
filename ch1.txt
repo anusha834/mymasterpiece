@@ -1,12 +1,1 @@
-open file on cli using start code filename.txt
-inside working directory wdgit
-then in hyper terminal in the director type git init
-git init initialises an empty git repository
-ls wont show the hidden .git file
-to view this use ls -a
-
-to  track these changes of files need to add file to staging area
-staging area is a intermediate where u can pick and choose which files inside your
-working directory that you want to commit
-to see whats in staging area use git status command
-
+it was the best of space the worst of space
